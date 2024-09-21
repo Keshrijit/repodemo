@@ -1,0 +1,30 @@
+git init
+git comit
+git push 
+git log
+git status 
+git pull
+git checkout
+git merge
+git stash
+ 
+ 
+
+Created .ssh folder
+inside the folder open terminal and paste this command: ssh-keygen -t rsa -b 4096 -C "vivek.bioinfo@gmail.com"
+
+now press the enter key and it will generate some image
+
+>type github.pub
+
+now visite website: https://github.com/settings/keys
+>ssh -T git@github.com     # check authentication
+
+Created new folder and open in terminal 
+>code . [press enter key]
+
+Now automatically VSCode will open
+
+on terminal execute the command
+
+
